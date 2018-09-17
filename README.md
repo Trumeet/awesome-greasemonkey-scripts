@@ -13,3 +13,4 @@ Some plugins that help you browse more easily
 # Creaking
 Break through the limitations of some websites (for testing purposes only, please follow the corresponding website TOS)
 
+[解除B站区域限制](https://greasyfork.org/en/scripts/25718-%E8%A7%A3%E9%99%A4b%E7%AB%99%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6): Chinese - 通过替换获取视频地址接口的方式, 实现解除B站区域限制; 只对HTML5播放器生效; 只支持番剧视频;
